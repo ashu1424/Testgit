@@ -1,0 +1,5 @@
+python 3.12.1
+pip
+github
+pytorch 12.8
+numpy 3.2.1
